@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @weichun57
 - 👀 I’m interested in WebGL, Vue, Android, Java and php.
-- 🌱 I’m currently learning WebGL and Vue.
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: wc57177jsdh@gmail.com
 
